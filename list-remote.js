@@ -10,6 +10,7 @@ async function fetchCountriesData() {
   }
 }
 
+
 function displayCountries(countriesArray) {
   let htmlOutput = "";
 
